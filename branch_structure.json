@@ -1,0 +1,18 @@
+{
+  "default_branch": "contribution",
+  "branches": [
+    "contribution",
+    "fix/issue-775-150-pts-devops-synthetic-horizon-event-fixture",
+    "origin"
+  ],
+  "parent": {
+    "contribution": null,
+    "fix/issue-775-150-pts-devops-synthetic-horizon-event-fixture": "contribution",
+    "origin": "contribution"
+  },
+  "order": [
+    "contribution",
+    "fix/issue-775-150-pts-devops-synthetic-horizon-event-fixture",
+    "origin"
+  ]
+}
